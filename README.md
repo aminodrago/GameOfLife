@@ -1,4 +1,7 @@
-GameOfLife
-==========
+Game Of Life
+=======
 
-Game Of Life (FlashPunk 1.6 + punk.fx 0.3.001)
+Conway's Game Of Life implementation using [FlashPunk 1.6](https://github.com/Draknek/FlashPunk) and [punk.fx 0.3.001](https://github.com/azrafe7/punk.fx).
+
+![snapshot](https://dl.dropboxusercontent.com/u/32864004/dev/FPDemo/GameOfLife-ScreenShot.png)
+
